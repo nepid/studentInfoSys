@@ -1,2 +1,2 @@
 # studentInfoSys
-A simple GUI based Students Information Mangement System, build using Java
+A GUI based Students Information Mangement System, build using Java
